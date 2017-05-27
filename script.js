@@ -1,5 +1,5 @@
 /*
-    Storing values of employee object and printing them in console.
+    Storing values of employee object in array and printing them in console.
     employeeAddress object in nested in employee object
     All employees are working in Bajaj Puna , so address is same :-)
 */
